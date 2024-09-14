@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Yongqi Liu"
+  title: "Cassie Liu"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      #- text: "CV"
+      #  href: pdfs/Jiwon_resume.pdf
+      - icon: github
+        href: https://github.com/Cassieliu77
+      - icon: envelope
+        href: cassieliu.liu@mail.utoronto.ca
 format:
   html:
-    theme: cyborg
+    theme: cosmo
     css: styles.css
     toc: true
-    
-editor: visual
 

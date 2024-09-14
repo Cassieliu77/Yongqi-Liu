@@ -1,5 +1,22 @@
 ---
-title: "Yongqi Liu"
+title: "Cassie Liu"
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  image: images/selfie.jpg
+  links:
+     #- text: "CV"
+     # href: pdfs/Jiwon_resume.pdf
+    - icon: envelope
+      text: "Email"
+      href: "cassieliu.liu@mail.utoronto.ca"
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/Cassieliu77
+
 ---
 
-I am Yongqi Liu from University of Toronto. I come from China. I major in economics and statistics.
+Hi, I am <strong>Cassie</strong>! I am studying <strong>Economics</strong>, <strong> Statistics</strong>, and <strong> Mathematics</strong> at the University of Toronto :)
+
+I'm an avid learner who is always eager to learn and discover new things about the world. I am a coffee addict! I truly believe people can achieve more with technologies and this will never end! <strong>Feel free to get in touch with me!</strong> 
